@@ -1,0 +1,21 @@
+AOL - To Do List & Finance Management
+Jason Evansaputra Sudargo
+
+Description:
+Project ini adalah aplikasi mobile untuk to-do list dan finance management. Project ini dibuat agar memudahkan masyarakat khususnya mahasiswa yang merantau supaya lebih terstruktur hidupnya.
+Fitur:
+- To-Do List:
+o CRUD Sederhana
+o Reminder Task
+- Finance Management:
+o Menghitung pengeluaran dan pemasukan
+o Menampilkan diagram pengeluaran dan pemasukan
+o Download laporan keuangan
+- Autentikasi
+Team Member:
+- Jason Evansaputra Sudargo
+- Yongky Alexander Tristan
+- Michael Ivan Santoso
+- Stevan Pohan
+- Felix Tanriady
+- Joseph Vincent Liem
