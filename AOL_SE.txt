@@ -1,4 +1,5 @@
 AOL - To Do List & Finance Management
+Update brach 2
 
 Description:
 Project ini adalah aplikasi mobile untuk to-do list dan finance management. Project ini dibuat agar memudahkan masyarakat khususnya mahasiswa yang merantau supaya lebih terstruktur hidupnya.
